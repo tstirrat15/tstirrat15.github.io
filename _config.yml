@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            TJS_BSM
 tagline:          'An Education in Hungary'
-description:      'A blog and travelogue for my semester in Hungary with the Budapest Semesters in Mathematics'
+description:      'A weblog and travelogue for my semester in Hungary with the Budapest Semesters in Mathematics'
 url:              http://tstirrat15.github.io
 
 author:
@@ -18,7 +18,6 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.0
 
 github:
   repo:           https://github.com/tstirrat15
