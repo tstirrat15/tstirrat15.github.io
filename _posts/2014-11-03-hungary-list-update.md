@@ -18,7 +18,7 @@ I've been filling the fitness gap by running and doing calisthenics on a semi-re
 I've been to a lot of places that I hadn't expected to go, like Slovakia and Slovenia, and they were absolutely wonderful. I've also been spending my travel money faster than I thought I would, so it may be that I don't get to every place that was on my list. I'm not too worried about it, though - I've still got plans, and if I don't get to every place on my list, I'll still have enjoyed some incredible travel.
 
 #### Done:
-* {% post_url 2014-11-01-switzerland %} - Beautiful and expensive and swiss. The fondue was amazing.
+* [Switzerland]({% post_url 2014-11-01-switzerland %}) - Beautiful and expensive and swiss. The fondue was amazing.
 
 #### In the Works:
 * Copenhagen - I'm heading to Copenhagen over the weekend before Thanksgiving. I'm gonna be riding a bicycle and learning what *hygge* means.
