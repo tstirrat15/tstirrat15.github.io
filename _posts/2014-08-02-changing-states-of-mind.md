@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Changing States of Mind
-tags:
-	- thinking
 ---
 
 Driving back to Tucson from Utah was interesting. I could feel myself getting further and further away mentally from where I was on the river. Smack in the middle of the season, I had a feeling of being exactly where I needed to be, of not needing to be anywhere else. It was a centered feeling. It made it easier to work and easier to be. I don't know if it was the place, or just being in the middle of the time period, where I didn't really have anything to think about.

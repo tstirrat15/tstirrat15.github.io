@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Initializing...
-tags:
-	- planning
-	- preparation
 ---
 
 I'm sitting at about 25 days out from getting on the flight to Hungary. It looks like a long time away, but I'll have less than two weeks before my last river trip, then less than two weeks at home before I'm getting on the plane. I know those last two weeks are going to fly, and I'll be there before I know it.
