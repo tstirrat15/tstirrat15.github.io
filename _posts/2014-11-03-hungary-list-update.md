@@ -3,7 +3,7 @@ layout: post
 title: Hungary List Update
 ---
 
-Today I want to take a look at {% post_url ../hungarylist %} and see where I'm at, the things that I've worked on and the things that I haven't.
+Today I want to take a look at my Hungary List and see where I'm at, the things that I've worked on and the things that I haven't.
 
 #### Joining a Volunteer Organization
 I haven't worked much on this one. I was given the name of the Budapest Bike Maffia, which seems to be a loose organization of young Hungarian people who own bikes and like to do good things, so I'm planning on helping out at one of their events this weekend - cooking and distributing hot meals to the homeless. I'll let you know how that goes.
@@ -18,7 +18,7 @@ I've been filling the fitness gap by running and doing calisthenics on a semi-re
 I've been to a lot of places that I hadn't expected to go, like Slovakia and Slovenia, and they were absolutely wonderful. I've also been spending my travel money faster than I thought I would, so it may be that I don't get to every place that was on my list. I'm not too worried about it, though - I've still got plans, and if I don't get to every place on my list, I'll still have enjoyed some incredible travel.
 
 #### Done:
-* {% post_url switzerland} - Beautiful and expensive and swiss. The fondue was amazing.
+* {% post_url 2014-11-01-switzerland %} - Beautiful and expensive and swiss. The fondue was amazing.
 
 #### In the Works:
 * Copenhagen - I'm heading to Copenhagen over the weekend before Thanksgiving. I'm gonna be riding a bicycle and learning what *hygge* means.
