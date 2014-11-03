@@ -3,7 +3,7 @@ layout: post
 title: Hungary List Update
 ---
 
-Today I want to take a look at {% post_url hungarylist %} and see where I'm at, the things that I've worked on and the things that I haven't.
+Today I want to take a look at {% post_url ../hungarylist %} and see where I'm at, the things that I've worked on and the things that I haven't.
 
 #### Joining a Volunteer Organization
 I haven't worked much on this one. I was given the name of the Budapest Bike Maffia, which seems to be a loose organization of young Hungarian people who own bikes and like to do good things, so I'm planning on helping out at one of their events this weekend - cooking and distributing hot meals to the homeless. I'll let you know how that goes.
