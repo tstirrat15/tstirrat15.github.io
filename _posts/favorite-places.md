@@ -21,8 +21,8 @@ This place is kinda funny. It's definitely a tourist destination, but it's also 
 ### Escape rooms
 
 These are a very Hungarian thing. They also show up in Japan, but they're very much line with the Hungarian love of puzzles. The concept is this: you make a reservation with a group of friends, show up, and then you're locked in a room. There's a Big Red Button if you get stuck or freaked out, but the idea is that you have to find clues to help you move through from one room to the next, and you're given an hour to do so. If you finish it in that time, you win; if you don't, you don't. They aren't easy, either. I got recommendations from my friends on which ones they liked best:
- - [The Egyptian Room](http://exitgames.hu/helyszinek/mystiqueroom)
- - [The Voodoo Room](http://www.claustrophilia.hu/en/game/voodoo.html)
+* [The Egyptian Room](http://exitgames.hu/helyszinek/mystiqueroom)
+* [The Voodoo Room](http://www.claustrophilia.hu/en/game/voodoo.html)
 
 
 ### [Kiraly Baths](https://www.google.com/maps/place/Kiraly+Medicinal+Bath/@47.510641,19.038179,17z/data=!3m1!4b1!4m2!3m1!1s0x4741dc1b438c256b:0xdbc813e961cc919b)
