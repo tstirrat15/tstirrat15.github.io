@@ -110,3 +110,7 @@ This place has a really cool concept. It's a different menu every night, based o
 ### [Cafe Der Provinz](https://www.google.com/maps/place/Cafe+Der+Provinz/@48.210625,16.351249,17z/data=!3m1!4b1!4m2!3m1!1s0x0000000000000000:0x4eb58d721077c362)
 
 These guys have a fantastic brunch spread. Waffles, crepes, cheese board, sliced meat, all kinds of wonderful spreads... Their whole thing is the super-fresh super-organic non-GMO whatever whatever. The results are very tasty.
+
+### [Bitzinger Wurstelstand](https://www.google.com/maps/place/Bitzinger+W%C3%BCrstelstand/@48.2040601,16.3686119,21z/data=!4m2!3m1!1s0x0000000000000000:0x41b30ec97b1a7e2e)
+
+These are the best sausages/brats that I've ever had, hands down. They're presented in Viennese fashion, slotted nicely in a good baguette with spicy brown mustard. It makes for a damn good lunch.
