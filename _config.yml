@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +8,7 @@ permalink:        pretty
 title:            TJS_BSM
 tagline:          'An Education in Hungary'
 description:      'A weblog and travelogue for my semester in Hungary with the Budapest Semesters in Mathematics'
-url:              http://tstirrat15.github.io
+url:              http://tstirrat.me
 
 author:
   name:           'Tanner Stirrat'
@@ -19,6 +18,8 @@ paginate:         5
 
 # Custom vars
 version:          0.1.0
+
+highlighter: rouge
 
 github:
   repo:           https://github.com/tstirrat15
